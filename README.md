@@ -1,0 +1,2 @@
+# owarai_voicevox_streamlit
+Voicevoxネタ
